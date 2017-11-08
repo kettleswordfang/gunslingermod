@@ -28,3 +28,22 @@ needs: "tool_quality": [ "HAMMER" ]
 *mean i'd have to change ALL the ammo types for disassembling - why not just have the guns fire a new type of ammo? then the kit is for that. and for disassembling them, so you can upgrade them.  
 training gun could not have a brass catcher - or allow one to be added - so you have to be careful picking up the casings, as there's only a limited amount.  
 at a higher level of fabrication + marksman + pistol then you could make them, again with the kit? or with anvil and shit? probably the latter, as they'd be powerful.*
+
+
+
+I do not aim with my hand.  
+He who aims with his hand has  
+forgotten the face of his father.  
+**I aim with my eye. (PER bonus)**
+
+I do not shoot with my hand.  
+He who shoots with his hand has  
+forgotten the face of his father.
+
+**I shoot with my mind. (INT + [ifpossible:skill, else:something])**
+
+I do not kill with my weapon.  
+He who kills with his weapon has  
+forgotten the face of his father.
+
+**I kill with my heart. (massive damage bonus)**
