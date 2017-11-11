@@ -1,0 +1,11 @@
+[
+	{
+		"type": "MOD_INFO",
+		"ident": "gunslingermod",
+		"name": "Gunslinger of Eld",
+		"authors": [ "Kettle Swordfang" ],
+		"description": "Revolver Martial Art.",
+		"category": "none",
+		"dependencies": [ "dda" ]
+	}
+]

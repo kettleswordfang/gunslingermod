@@ -1,0 +1,57 @@
+[
+    {
+        "type": "profession",
+        "ident": "prof_gunslinger",
+        "name": "Gunslinger",
+        "description": "Description of Gunslinger profession here.",
+        "points": 5,
+        "skills": [
+            {
+                "level": 1,
+                "name": "fabrication"
+            },
+			{
+                "level": 1,
+                "name": "speech"
+            },
+            {
+                "level": 2,
+                "name": "survival"
+            },
+			{
+				"level": 2,
+				"name": "dodge",
+			},
+				"level": 2,
+				"name": "gun",
+			},
+			{
+				"level": 4,
+				"name": "pistol",
+			}
+        ],
+        "items": {
+            "both": [
+		"cowboy_hat",
+		"boots_western",
+		"bandana",
+		"sherrifshirt",
+		"waistcoast",
+		"duster_leather",
+		"XL_holster",
+		"satchel_leather",
+		"gloves_fingerless_mod",
+		"gs_revolver_sandalwood",
+		"mbag"
+            ],
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "boy_shorts",
+				"bra"
+            ]
+        },
+		"traits": ["PROF_MARTIAL_ARTS_gunslinger"]
+    }
+]

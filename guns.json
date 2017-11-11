@@ -1,0 +1,33 @@
+[
+  {
+    "id": "gs_revolver_sandalwood",
+    "type": "GUN",
+    "name": "sandalwood revolver",
+    "description": "Description of sandalwood revolver.",
+    "weight": 1400,
+    "volume": 3,
+    "price": 150000,
+    "to_hit": -1,
+    "bashing": 14,
+    "material": [ "steel" ],
+    "symbol": "(",
+    "color": "dark_gray",
+    "ammo": "gs_60",
+    "skill": "pistol",
+    "ranged_damage": 10,
+    "dispersion": 175,
+    "durability": 12,
+    "clip_size": 5,
+    "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "barrel", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ],
+    "flags": [ "WATERPROOF_GUN", "RELOAD_ONE", "NEVER_JAMS", "TRADER_AVOID" ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"id": "satchel_leather",
+		"type": "ARMOR",
+		"name": "leather satchel",
+		"description": "Worn from years of following marks across the wastelands.",
+		"weight": 500,
+		"volume": 2,
+		"price": 1000,
+		"to_hit": 1,
+		"bashing": 1,
+		"material": [ "cotton", "leather" ],
+		"symbol": "[",
+		"color": "brown",
+		"covers": [ "TORSO" ],
+		"coverage": 25,
+		"encumbrance": 4,
+		"storage": 25,
+		"material_thickness": 2,
+		"flags": [ "BELTED", "WATER_FRIENDLY", "TRADER_AVOID" ]
+  }
+]

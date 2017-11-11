@@ -1,0 +1,54 @@
+[
+    {
+	"type" : "technique",
+    "id" : "tec_gunslinger_crit",
+    "name" : "Critical Attack",
+	"min_pistol" : 3,
+	"crit_tec" : true,
+	"flat_bonuses" : [["arpen", 10]],
+	"mult_bonuses" : [["damage", 1.5]],
+    "messages" : [
+		"You critical attack %s",
+        "<npcname> critical attacks %s"
+        ]
+    },
+	{
+    "type" : "technique",
+    "id" : "tec_gunslinger_feint",
+    "name" : "Feint Attack",
+    "min_pistol" : 4,
+    "defensive" : true,
+    "miss_recovery" : true,
+    "mult_bonuses" : [["movecost", 0.8]],
+    "messages" : [
+		"You strike quickly at %s",
+		"<npcname> strike quickly at %s"
+        ]
+    },
+	{
+    "type" : "technique",
+    "id" : "tec_gunslinger_fast",
+    "name" : "Fast Attack",
+    "min_pistol" : 5,
+	"req_buffs" : ["gunslinger_dodgebuff"],
+    "mult_bonuses" : [["movecost", 0.5]],
+	"stun_dur" : 1,
+    "messages" : [
+		"You strike at %s like the wind",
+        "<npcname> strikes at %s like the wind"
+        ]
+    },
+	{
+    "type" : "technique",
+    "id" : "tec_gunslinger_blast",
+    "name" : "Piercing Blast",
+	"min_pistol" : 10,
+    "crit_tec" : true,
+	"flat_bonuses" : [["arpen", 25]],
+	"mult_bonuses" : [["damage", 2.5]],
+    "messages" : [
+		"You strike true",
+        "<npcname> strikes true"
+		]
+    }
+]
