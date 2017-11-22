@@ -1,49 +1,44 @@
 #Gunslinger of Eld
-  
-cowboy_hat  
-boots_western  
-bandana  
-sherrifshirt  
-waistcoast  
-duster_leather  
-XL_holster  
-leather satchel (new object)
-special ammo casings (like 30ish of them - 5 in gun, 10 in ammo belt (to mimic fast reloads?) plus 20 in the bag? that's 35)
-custom ammo belt (0 encumbrance, for special ammo)
 
-`Book of Eld (recipes)`
-+ "slingshot"
-+ training gun (special ammo casing)
-+ sandlewood gun (special ammo casing)
-+ ammo types (special ammo casing)
-+ gun modifications
-+ slingshot modifications
-+ bird skull necklace (PER + INT increase)
-*guns have built in ammo catcher - will always use the same block of ammo)*
+###New Profession - Gunslinger
+`|\...`
 
-"gunslingers_kit" to disassemble unused ammo and make new ammo for the eld guns  
-needs: "tool_quality": [ "HAMMER" ]  
-`tool type - "puller" (kinetic), "press" (handpress and die)`  
+###New Scenario - As Yet Unimplemented
+`.....`
 
-*mean i'd have to change ALL the ammo types for disassembling - why not just have the guns fire a new type of ammo? then the kit is for that. and for disassembling them, so you can upgrade them.  
-training gun could not have a brass catcher - or allow one to be added - so you have to be careful picking up the casings, as there's only a limited amount.  
-at a higher level of fabrication + marksman + pistol then you could make them, again with the kit? or with anvil and shit? probably the latter, as they'd be powerful.*
+###New Ammo Types
+`|....`
 
++ items
++ recipes
++ decraft
 
+.60 big bore - good range, average damage  
+.60 lightweight - excellent range, low damage  
+.60 Cherry PIE - good range, average damage + FLAME  
+.60 showstopper - low range, excellent damage + LOUD  
 
-I do not aim with my hand.  
-He who aims with his hand has  
-forgotten the face of his father.  
-**I aim with my eye. (PER bonus)**
+###New Items
+`|....`
 
-I do not shoot with my hand.  
-He who shoots with his hand has  
-forgotten the face of his father.
+leather satchel - medium capacity, wearable leather container  
+gunslinger's kit - firearm repair + bullet puller + custom ammo tool  
+sandalwood revolver - high powered custom revolver, holds 5 bullets  
+various upgraded revolvers - recipe book found in [PLACE]  
+    sandalwood > clockwork sandalwood > masterwork sandalwood  
+belt bandolier - belt with custom ammo capacity  
 
-**I shoot with my mind. (INT + [ifpossible:skill, else:something])**
+##New Martial Art - Gunslinger of Eld
+`||\..`
 
-I do not kill with my weapon.  
-He who kills with his weapon has  
-forgotten the face of his father.
+**I aim with my eye** - static bonus to hit using revolver  
+**I shoot with my mind** (marksmanship 4 required) - static bonus to pistol skill  
+**I kill with my heart** (pistol 8 required) - static bonus damage using revolver  
 
-**I kill with my heart. (massive damage bonus)**
+**Swift like a bullet** - bonus to damage + block on dodge (stacks x3)  
+**Perfectly coiled mechanism** - extra chance to dodge when moving (stacks x2)  
+
+**Critical Attack** (pistol 4 required) - armor penetration + extra damage  
+**Feint Attack** (pistol 5 required) - reduced movecost/fast attack  
+**Fast Attack** (pistol 7 + Feint Attack required) - fast attack + massive damage
+**Piercing Blast** (pistol 10 required) - massive damage + armor penetration

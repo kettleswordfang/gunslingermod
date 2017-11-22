@@ -1,0 +1,15 @@
+[
+  {
+    "result": "gs_60",
+    "type": "uncraft",
+    "time": 100,
+    "tools": [ [ [ "gs_tool", -1 ] ] ],
+    "components": [
+      [ [ "lead", 2 ] ],
+      [ [ "gs_60_casing", 1 ] ],
+      [ [ "smpistol_primer", 1 ] ],
+      [ [ "gunpowder", 2 ] ]
+    ],
+    "flags": [ "UNCRAFT_SINGLE_CHARGE" ]
+  }
+]
