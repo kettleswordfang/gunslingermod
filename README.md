@@ -15,7 +15,7 @@
 
 .60 big bore - good range, average damage  
 .60 lightweight - excellent range, low damage  
-.60 Cherry PIE - good range, average damage + FLAME  
+.60 Cherry pie - good range, average damage + FLAME  
 .60 showstopper - low range, excellent damage + LOUD  
 
 ###New Items
@@ -32,7 +32,7 @@ belt bandolier - belt with custom ammo capacity
 `||\..`
 
 **I aim with my eye** - static bonus to hit using revolver  
-**I shoot with my mind** (marksmanship 4 required) - static bonus to pistol skill  
+**I shoot with my mind** (marksmanship 4 required) - static bonus to DEX & PER  
 **I kill with my heart** (pistol 8 required) - static bonus damage using revolver  
 
 **Swift like a bullet** - bonus to damage + block on dodge (stacks x3)  

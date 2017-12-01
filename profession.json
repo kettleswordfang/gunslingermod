@@ -20,30 +20,35 @@
             },
 			{
 				"level": 2,
-				"name": "dodge",
+				"name": "dodge"
 			},
+            {
 				"level": 2,
-				"name": "gun",
+				"name": "gun"
 			},
 			{
 				"level": 4,
-				"name": "pistol",
+				"name": "pistol"
 			}
         ],
         "items": {
-            "both": [
-		"cowboy_hat",
-		"boots_western",
-		"bandana",
-		"sherrifshirt",
-		"waistcoast",
-		"duster_leather",
-		"XL_holster",
-		"satchel_leather",
-		"gloves_fingerless_mod",
-		"gs_revolver_sandalwood",
-		"mbag"
-            ],
+            "both": {
+                "items": [
+                    "cowboy_hat",
+                    "bandana",
+                    "sheriffshirt",
+                    "waistcoat",
+                    "duster_leather",
+                    "bandolier_holster",
+                    "satchel_leather",
+                    "gloves_fingerless_mod"
+                ],
+                "entries": [
+                    { "item": "gs_revolver_sandalwood", "ammo-item": "gs_ammo_light", "charges": 5 },
+                    { "item": "switchblade", "container-item": "boots_gunslinger" },
+                    { "item": "gs_ammo_light", "charges": 40 }
+                ]
+            },
             "male": [
                 "boxer_shorts"
             ],

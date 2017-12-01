@@ -16,7 +16,7 @@
     "skill": "pistol",
     "ranged_damage": 10,
     "dispersion": 175,
-    "durability": 12,
+    "durability": 10,
     "clip_size": 5,
     "valid_mod_locations": [
       [ "accessories", 2 ],
