@@ -9,13 +9,13 @@
         "time": 2000,
         "batch_time_factors": [ 50, 10 ],
         "charges": 1,
-        "tools": [ [ [ "gs_tool", -1 ] ] ],
+        "tools": [ [ [ "gunslinger_kit", -1 ] ] ],
         "components": [
             [[ "gs_60_casing", 1 ]],
             [[ "lgpistol_primer", 1 ]],
             [[ "gunpowder", 4 ], [ "chem_black_powder", 4 ]],
-            [[ "lead" 4 ]]
-         ],
+            [[ "lead",  4 ]]
+         ]
     },
     {
         "result": "gs_ammo_light",
@@ -27,7 +27,7 @@
         "time": 2000,
         "batch_time_factors": [ 50, 10 ],
         "charges": 1,
-        "tools": [ [[ "gs_tool", -1 ]] ],
+        "tools": [ [[ "gunslinger_kit", -1 ]] ],
         "components": [
             [[ "gs_60_casing", 1 ]],
             [[ "lgpistol_primer", 1 ]],
@@ -45,7 +45,7 @@
         "time": 2000,
         "batch_time_factors": [ 50, 10 ],
         "charges": 1,
-        "tools": [ [[ "gs_tool", -1 ]] ],
+        "tools": [ [[ "gunslinger_kit", -1 ]] ],
         "components": [
             [[ "gs_60_casing", 1 ]],
             [[ "lgpistol_primer", 1 ]],
@@ -63,7 +63,7 @@
         "time": 2000,
         "batch_time_factors": [ 50, 10 ],
         "charges": 1,
-        "tools": [ [[ "gs_tool", -1 ]] ],
+        "tools": [ [[ "gunslinger_kit", -1 ]] ],
         "components": [
             [[ "gs_60_casing", 1 ]],
             [[ "shotgun_primer", 1 ]],
