@@ -29,7 +29,7 @@
         "bashing": 1,
         "use_action": {
             "type": "place_monster",
-            "monster_id": "mon_ts_target",
+            "monster_id": "mon_gs_target",
             "friendly_msg": "Something went wrong setting this up.",
             "hostile_msg": "You set the target up on the ground.",
             "difficulty": 99,
