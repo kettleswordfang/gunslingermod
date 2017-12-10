@@ -43,6 +43,7 @@
     "type": "AMMO",
     "name": ".60 lightweight",
     "description": "Lightweight big bore cartridges often used for training purposes.",
+    "casing": "gs_60_casing",
     "proportional": { "price": 0.5, "damage": 0.5, "dispersion": 1.2, "range": 1.5, "recoil": 0.8, "pierce": 0.5, "loudness": 0.8 },
     "delete": { "effects": [ "MUZZLE_SMOKE" ] },
     "extend": { "effects": [ "NOGIB" ] }

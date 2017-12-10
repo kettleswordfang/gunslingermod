@@ -3,7 +3,7 @@
     "id": "gs_revolver_sandalwood",
     "type": "GUN",
     "name": "sandalwood revolver",
-    "description": "Description of sandalwood revolver.",
+    "description": "\.",
     "weight": 1400,
     "volume": 3,
     "price": 150000,
@@ -21,14 +21,28 @@
     "built_in_mods": [ "brass_catcher", "match_trigger", "improve_sights" ],
     "valid_mod_locations": [
       [ "accessories", 1 ],
-      [ "barrel", 1 ],
-      [ "grip", 1 ],
-      [ "mechanism", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
+      [ "stock", 1 ]
     ],
     "flags": [ "WATERPROOF_GUN", "RELOAD_ONE", "NEVER_JAMS", "TRADER_AVOID" ]
-  }
+  },
+  {
+    "id": "gs_revolver_clockwork",
+    "copy-from": "gs_revolver_sandalwood",
+    "type": "GUN",
+    "name": "clockwork sandalwood revolver",
+    "description": "missing description",
+    "proportional": { "price": 1.3, "ranged_damage": 1.3, "dispersion": 0.7, "durability": 2 },
+    "clip_size": 8,
+    "extend": { "valid_mod_locations": [ "rail", 1 ], [ "mechanism", 1 ], [ "sights", 1 ] }
+    },
+    {
+    "id": "gs_revolver_masterwork",
+    "copy-from": "gs_revolver_sandalwood",
+    "type": "GUN",
+    "name": "masterwork sandalwood revolver",
+    "description": "missing description",
+    "proportional": { "price": 2, "ranged_damage": 2, "dispersion": 0.5, "durability": 2.5, "bashing": 2 },
+    "clip_size": 12,
+    "extend": { "valid_mod_locations": [ "accessories", 2 ], [ "barrel", 1 ], [ "underbarrel": 1 ] }
+    }
 ]

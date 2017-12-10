@@ -24,7 +24,8 @@
           "bandolier_holster",
           "satchel_leather",
           "gloves_fingerless_mod",
-          "gunslinger_kit"
+          "gunslinger_kit",
+          "gs_birdskull"
         ],
         "entries": [
           { "item": "gs_revolver_sandalwood", "ammo-item": "gs_ammo_light", "charges": 5 },

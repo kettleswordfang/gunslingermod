@@ -2,7 +2,8 @@
   {
     "result": "gs_ammo_generic",
     "type": "recipe",
-    "category": "CSC_AMMO_PISTOL",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_PISTOL",
     "autolearn": false,
     "skill_used": "fabrication",
     "difficulty": 1,
@@ -22,7 +23,8 @@
   {
     "result": "gs_ammo_light",
     "type": "recipe",
-    "category": "CSC_AMMO_PISTOL",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_PISTOL",
     "autolearn": false,
     "skill_used": "fabrication",
     "difficulty": 1,
@@ -34,7 +36,7 @@
     "tools": [ [ [ "gunslinger_kit", -1 ] ] ],
     "components": [
       [ [ "gs_60_casing", 1 ] ],
-      [ [ "lgpistol_primer", 1 ] ],
+      [ [ "smpistol_primer", 1 ] ],
       [ [ "gunpowder", 3 ], [ "chem_black_powder", 3 ] ],
       [ [ "lead", 3 ] ]
     ]
@@ -42,7 +44,8 @@
   {
     "result": "gs_ammo_inc",
     "type": "recipe",
-    "category": "CSC_AMMO_PISTOL",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_PISTOL",
     "autolearn": false,
     "skill_used": "fabrication",
     "difficulty": 1,
@@ -62,7 +65,8 @@
   {
     "result": "gs_ammo_heavy",
     "type": "recipe",
-    "category": "CSC_AMMO_PISTOL",
+    "category": "CC_AMMO",
+    "subcategory": "CSC_AMMO_PISTOL",
     "book_learn": [ [ "recipe_gunslinger", 5 ] ],
     "autolearn": false,
     "skill_used": "fabrication",
@@ -78,6 +82,53 @@
       [ [ "gunpowder", 8 ], [ "chem_black_powder", 8 ] ],
       [ [ "lead", 10 ] ]
     ]
-  }
+  },
+  {
+"result": "gs_revolver_clockwork",
+"type": "recipe",
+"category": "CC_WEAPON",
+"subcategory": "CSC_WEAPON_RANGED",
+"skill_used": "gun",
+"difficulty": 6,
+"skills_required": [ "fabrication", 4 ],
+"time": 60000,
+"reversible": false,
+"autolearn": false,
+"tools" : [
+    [[ "gunslinger_kit", -1 ]]
+    ],
+"components": [
+    [ "gs_revolver_sandalwood", 1 ],
+    [ "clockworks", 3 ],
+    [ "offset_sights", 1 ],
+    [ [ "scrap_copper", 1 ], [ "copper", 100 ] ]
+    ]
+},
+{
+"result": "gs_revolver_masterwork",
+"type": "recipe",
+"category": "CC_WEAPON",
+"subcategory": "CSC_WEAPON_RANGED",
+"skill_used": "gun",
+"difficulty": 8,
+"skills_required": [ "fabrication", 6 ],
+"time": 120000,
+"reversible": false,
+"autolearn": false,
+"qualities": [
+    { "id": "SAW_M_FINE", "level": 1 },
+    { "id": "SCREW_FINE", "level": 1 },
+    { "id": "HAMMER", "level": 2 }
+    ],
+"tools" : [
+    [[ "gunslinger_kit", -1 ]]
+    ],
+"components": [
+    [ "gs_revolver_clockwork", 1 ],
+    [ "clockworks", 1 ],
+    [ "barrel_big", 1 ],
+    [ "barrel_ported", 1 ],
+    [ "silver_small", 12 ]
+    ]
+}
 ]
-
