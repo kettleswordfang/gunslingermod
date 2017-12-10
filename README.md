@@ -15,7 +15,7 @@ your ammunition comes in four types -
 .60 showstopper - low range with excellent damage, but LOUD  
                                                                                       if lost, most of your starter items can be crafted using the recipes in your journal - though most are not simple. the journal also contains the recipe for a target dummy, for training up your ranged skills - fragile and a little tricky to make, the target dummy can be set up indoors for those long winters when you have nothing to shoot at - as well as a few others.  
 
-                                                                                      ###work in progress for completion
+                                                                                      ##work in progress for completion
                                                                                       
 + all kinds of things are missing descriptions  
 + what about maybe a kind of clockwork slingshot for a silent ranged attack?  
