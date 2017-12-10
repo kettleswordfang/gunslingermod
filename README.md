@@ -3,6 +3,8 @@
 *this mod is still very much a W.I.P,  
 please don't expect it to always be working*
 
+---
+
 gunslinger starts with a sandalwood revolver - a powerful sidearm that fires .60 big bore cartridges.  
 your character starts with X rounds of .60 of big bore. this ammo cannot be found in the world, only created by the gunslinger.
                                                                                       to create ammo, you start with a gunslinger's kit. this tool can disassemble all types of found ammunition for use in recrafting your spent rounds. the sandalwood revolver catches spent rounds automatically and can be upgraded twice - to the clockwork revolver then the masterwork revolver. you also start with a bird skull necklace to mediate with, a bandolier holster to store your gun and a knife sheathed in your worn leather boots.  
