@@ -8,7 +8,7 @@
         "species": [ "ROBOT" ],
         "diff": 20,
         "size": "MEDIUM",
-        "hp": 1000,
+        "hp": 400,
         "speed": 1,
         "material": [ "wood", "cotton" ],
         "symbol": "@",
