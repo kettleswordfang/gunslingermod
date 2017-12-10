@@ -1,4 +1,4 @@
-#Gunslinger of Eld
+# Gunslinger of Eld
 
 *this mod is still very much a W.I.P,  
 please don't expect it to always be working*
@@ -15,14 +15,14 @@ your ammunition comes in four types -
 .60 showstopper - low range with excellent damage, but LOUD  
                                                                                       if lost, most of your starter items can be crafted using the recipes in your journal - though most are not simple. the journal also contains the recipe for a target dummy, for training up your ranged skills - fragile and a little tricky to make, the target dummy can be set up indoors for those long winters when you have nothing to shoot at - as well as a few others.  
 
-                                                                                      ##work in progress for completion
+## work in progress for completion
                                                                                       
 + all kinds of things are missing descriptions  
 + what about maybe a kind of clockwork slingshot for a silent ranged attack?  
 + showstoppers might be too powerful, though they attract every damn zed around  
 + the bandolier holster is weird. i don't know if it's working properly  
                                                                                       
-###new items
+### new items
 
 sandalwood revolver - high powered custom revolver, holds 5 bullets  
 	sandalwood can be upgraded : clockwork sandalwood : masterwork sandalwood  
@@ -31,7 +31,7 @@ gunslinger's kit - firearm repair + bullet puller + custom ammo tool, powered us
 bandolier holster - holster with custom ammo capacity  
 training dummy - craftable mob for training ranged skills  
 
-###new martial art - gunslinger of eld - probably not up to date
+### new martial art - gunslinger of eld - probably not up to date
 
 **I aim with my eye** - static bonus to hit using revolver  
 **I shoot with my mind** (marksmanship 4 required) - static bonus to DEX & PER  
@@ -45,5 +45,8 @@ training dummy - craftable mob for training ranged skills
 **Fast Attack** (pistol 7 + Feint Attack required) - fast attack + massive damage
 **Piercing Blast** (pistol 10 required) - massive damage + armor penetration
 
-*tinder and ember holder from -- WHATMOD? survival tools?
+### notes
 
+this class is hard to use without all the tools you need, so there isn't currently a way to learn the martial art from a manual like all the others.
+
+*tinder and ember holder from -- WHATMOD? survival tools?
