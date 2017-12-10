@@ -11,11 +11,12 @@ your character starts with X rounds of .60 of big bore. this ammo cannot be foun
 
 your ammunition comes in four types -  
 
-.60 big bore - good range with average damage  
-.60 lightweight - excellent range but low damage  
-.60 Cherry pie - good range, average damage and ignition on impact  
-.60 showstopper - low range with excellent damage, but LOUD  
-                                                                                      if lost, most of your starter items can be crafted using the recipes in your journal - though most are not simple. the journal also contains the recipe for a target dummy, for training up your ranged skills - fragile and a little tricky to make, the target dummy can be set up indoors for those long winters when you have nothing to shoot at - as well as a few others.  
+**.60 big bore** - good range with average damage  
+**.60 lightweight** - excellent range but low damage  
+**.60 Cherry pie** - good range, average damage and ignition on impact  
+**.60 showstopper** - low range with excellent damage, but LOUD  
+
+if lost, most of your starter items can be crafted using the recipes in your journal - though most are not simple. the journal also contains the recipe for a target dummy, for training up your ranged skills - fragile and a little tricky to make, the target dummy can be set up indoors for those long winters when you have nothing to shoot at - as well as a few others.  
 
 ## work in progress for completion
                                                                                       
@@ -27,13 +28,13 @@ your ammunition comes in four types -
 ### new items
 
 sandalwood revolver - high powered custom revolver, holds 5 bullets  
-	sandalwood can be upgraded : clockwork sandalwood : masterwork sandalwood  
+> sandalwood can be upgraded : clockwork sandalwood : masterwork sandalwood  
 leather satchel - medium capacity, wearable leather container  
 gunslinger's kit - firearm repair + bullet puller + custom ammo tool, powered using wood gasification  
 bandolier holster - holster with custom ammo capacity  
 training dummy - craftable mob for training ranged skills  
 
-### new martial art - gunslinger of eld - probably not up to date
+### new martial art - gunslinger of eld - ~~probably~~ definitely not up to date
 
 **I aim with my eye** - static bonus to hit using revolver  
 **I shoot with my mind** (marksmanship 4 required) - static bonus to DEX & PER  
