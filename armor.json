@@ -36,10 +36,10 @@
     "encumbrance": 3,
     "material_thickness": 1,
     "use_action": [
-      { "type": "holster", "min_volume": 3, "max_volume": 4, "draw_cost": 1, "skills": [ "pistol" ] },
+      { "type": "holster", "min_volume": 3, "max_volume": 4, "draw_cost": 10, "skills": [ "pistol" ] },
       { "type": "bandolier", "capacity": 5, "ammo": [ "gs_60" ] }
     ],
-    "flags": [ "BELTED", "WATER_FRIENDLY", "OVERSIZE" ]
+    "flags": [ "BELTED", "WATER_FRIENDLY", "OVERSIZE", "STURDY" ]
   },
   {
     "id": "boots_gunslinger",
@@ -54,7 +54,7 @@
       "type": "holster",
       "holster_prompt": "Sheath knife",
       "holster_msg": "You sheath your %s",
-      "max_volume": 1,
+      "max_volume": 2,
       "draw_cost": 5,
       "flags": [ "SHEATH_KNIFE" ]
     }
