@@ -19,6 +19,7 @@
         "category": "tools",
         "id": "gs_unplaced_target",
         "name": "shooting target",
+        "name_plural": "shooting targets",
         "symbol": "o",
         "color": "dark_red",
         "description": "A simple target for shooting practice. Use it to place it down somewhere so you can shoot at it.",
@@ -34,7 +35,8 @@
             "hostile_msg": "You set the target up on the ground.",
             "difficulty": 99,
             "moves": 100,
-            "place_randomly": false
+            "place_randomly": false,
+            "skill1": "traps"
         },
         "flags": [ "TRADER_AVOID" ]
     }

@@ -12,7 +12,7 @@
         "speed": 1,
         "material": [ "wood", "cotton" ],
         "symbol": "@",
-        "color": "dkred",
+        "color": "red",
         "aggression": 1,
         "morale": 1,
         "armor_bash": 1,
